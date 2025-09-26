@@ -1,0 +1,15 @@
+.\ht32\52352\queue.o: ..\..\FreeRTOS\source\queue.c
+.\ht32\52352\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\ht32\52352\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\FreeRTOS.h
+.\ht32\52352\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\ht32\52352\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\FreeRTOSConfig.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\projdefs.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\portable.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\task.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\list.h
+.\ht32\52352\queue.o: ..\..\FreeRTOS\include\queue.h

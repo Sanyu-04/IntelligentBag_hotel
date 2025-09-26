@@ -1,0 +1,16 @@
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\source\tasks.c
+.\ht32\52352\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\ht32\52352\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\FreeRTOS.h
+.\ht32\52352\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\ht32\52352\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\FreeRTOSConfig.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\projdefs.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\portable.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\task.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\list.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\timers.h
+.\ht32\52352\tasks.o: ..\..\FreeRTOS\include\stack_macros.h

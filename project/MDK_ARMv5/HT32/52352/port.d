@@ -1,0 +1,12 @@
+.\ht32\52352\port.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM0\port.c
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\FreeRTOS.h
+.\ht32\52352\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\ht32\52352\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\FreeRTOSConfig.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\projdefs.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\portable.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\portable\RVDS\ARM_CM0\portmacro.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\task.h
+.\ht32\52352\port.o: ..\..\FreeRTOS\include\list.h
